@@ -34,7 +34,8 @@
     "https://www.bhaskar.com/entertainment/bollywood/news/priyadarshan-says-paresh-rawal-apologised-for-leaving-hera-pheri-3-135370782.html": 1751645030.6289084,
     "https://www.moneycontrol.com/news/buzzing-stocks/gainerslosers-10-stocks-that-movedmostapril-23_17531921.html": 1751647099.7927325,
     "https://www.moneycontrol.com/news/buzzing-stocks/bulk-deals-societe-generale-marshall-wace-activebandhan-bank-bobmanappuram-finance_17532011.html": 1751647167.2187793,
-    "https://www.moneycontrol.com/news/buzzing-stocks/vodafone-idea-zooms-12-after-fpo-sees-6x-subscription-focus-shifts-to-allotment-listing_17531831.html": 1751647239.1627712
+    "https://www.moneycontrol.com/news/buzzing-stocks/vodafone-idea-zooms-12-after-fpo-sees-6x-subscription-focus-shifts-to-allotment-listing_17531831.html": 1751647239.1627712,
+    "https://www.bhaskar.com/business/news/nhai-toll-tax-rates-2025-update-highway-bridge-tunnel-135376872.html": 1751696354.0057383
   },
   "headlines": {
     "रमयणकधमकदरटजर": 1751542122.0868795,
@@ -71,7 +72,8 @@
     "हरफर3परशरवलकवपस": 1751645030.628909,
     "बजरमहलचल": 1751647099.7927334,
     "बडखबरशयरबजरमउथलपथल": 1751647167.2187805,
-    "वडफनआइडयम12कछलग": 1751647239.162772
+    "वडफनआइडयम12कछलग": 1751647239.162772,
+    "टलटकसम50तकककटत": 1751696354.005739
   },
   "feed_urls": {
     "https://www.prabhasakshi.com/rss/bollywood": 1751542272.408764,
@@ -83,6 +85,7 @@
     "https://hindi.moneycontrol.com/news/rss/feeds/markets.xml": 1751560895.9101884,
     "https://www.bhaskar.com/rss-v1--category-1739.xml": 1751634519.7451222,
     "https://www.bhaskar.com/rss-v1--category-11215.xml": 1751645030.6289093,
-    "https://www.moneycontrol.com/rss/buzzingstocks.xml": 1751647239.1627727
+    "https://www.moneycontrol.com/rss/buzzingstocks.xml": 1751647239.1627727,
+    "https://www.bhaskar.com/rss-v1--category-1051.xml": 1751696354.0057397
   }
 }
