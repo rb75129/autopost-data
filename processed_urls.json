@@ -37,7 +37,8 @@
     "https://www.moneycontrol.com/news/buzzing-stocks/vodafone-idea-zooms-12-after-fpo-sees-6x-subscription-focus-shifts-to-allotment-listing_17531831.html": 1751647239.1627712,
     "https://www.bhaskar.com/business/news/nhai-toll-tax-rates-2025-update-highway-bridge-tunnel-135376872.html": 1751696354.0057383,
     "https://www.bhaskar.com/business/news/gold-price-today-5-july-2025-sona-chandi-ka-bhav-aaj-ka-135377018.html": 1751696420.9390206,
-    "https://www.bhaskar.com/national/news/india-us-trade-deal-piyush-goyal-rahul-gandhi-donald-trump-narendra-modi-135376858.html": 1751696501.8209722
+    "https://www.bhaskar.com/national/news/india-us-trade-deal-piyush-goyal-rahul-gandhi-donald-trump-narendra-modi-135376858.html": 1751696501.8209722,
+    "https://www.bhaskar.com/national/news/nasa-spacex-axiom-astronauts-mission-glucose-insulin-shubhanshu-shukla-135283374.html": 1751696572.2033384
   },
   "headlines": {
     "रमयणकधमकदरटजर": 1751542122.0868795,
@@ -77,7 +78,8 @@
     "वडफनआइडयम12कछलग": 1751647239.162772,
     "टलटकसम50तकककटत": 1751696354.005739,
     "सनचदमउछल": 1751696420.9390216,
-    "भरतअमरकवयपरसमझत": 1751696501.8209734
+    "भरतअमरकवयपरसमझत": 1751696501.8209734,
+    "अतरकषममधमहकइलज": 1751696572.2033393
   },
   "feed_urls": {
     "https://www.prabhasakshi.com/rss/bollywood": 1751542272.408764,
@@ -90,6 +92,7 @@
     "https://www.bhaskar.com/rss-v1--category-1739.xml": 1751634519.7451222,
     "https://www.bhaskar.com/rss-v1--category-11215.xml": 1751645030.6289093,
     "https://www.moneycontrol.com/rss/buzzingstocks.xml": 1751647239.1627727,
-    "https://www.bhaskar.com/rss-v1--category-1051.xml": 1751696501.8209739
+    "https://www.bhaskar.com/rss-v1--category-1051.xml": 1751696501.8209739,
+    "https://www.bhaskar.com/rss-v1--category-7911.xml": 1751696572.2033398
   }
 }
