@@ -1,1 +1,23 @@
-
+{
+  "daily_videos": [
+    {
+      "date": "2025-07-19",
+      "timestamp": "2025-07-19T16:26:00+05:30",
+      "video_id": "uuid_video_1"
+    }
+  ],
+  "monthly_subscription": {
+    "subscription_start_date": "2025-07-15",
+    "videos": [
+      {
+        "date": "2025-07-01",
+        "count": 3
+      },
+      {
+        "date": "2025-07-02",
+        "count": 5
+      }
+    ],
+    "last_reset": "2025-07-19T00:00:00+05:30"
+  }
+}
