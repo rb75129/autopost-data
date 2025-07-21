@@ -1,21 +1,5 @@
 {
-  "daily_videos": [
-    {
-      "date": "2025-07-19",
-      "timestamp": "2025-07-19T16:26:00+05:30",
-      "video_id": "uuid_video_1"
-    },
-    {
-      "date": "2025-07-19",
-      "timestamp": "2025-07-19T13:33:21.734000",
-      "video_id": "40aa51d4-b858-45f4-9413-588a2362b2b3"
-    },
-    {
-      "date": "2025-07-19",
-      "timestamp": "2025-07-19T17:23:16.006392+05:30",
-      "video_id": "9ef96947-036c-4c3a-a96f-417a0333a62a"
-    }
-  ],
+  "daily_videos": [],
   "monthly_subscription": {
     "subscription_start_date": "2025-07-15",
     "videos": [
@@ -32,6 +16,6 @@
         "count": 2
       }
     ],
-    "last_reset": "2025-07-19T00:00:00+05:30"
+    "last_reset": "2025-07-21T15:38:52.120183+05:30"
   }
 }
